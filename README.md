@@ -1,7 +1,5 @@
 # School_Management_System
- Group 1
 
- 
  Đây là repository chứa source code FrontEnd và BackEnd của nhóm em trong môn Lập trình nâng cao.
  Trong Bài tập lớn này em chịu các vấn đề liên quan đến thiết kế Models, Kiến trúc hệ thống, kết nối Realtime Database, hiện thực hóa các API,...
 
