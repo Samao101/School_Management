@@ -2,13 +2,10 @@
  Group 1
 
  
- Đây là repository chứa source code FrontEnd và BackEnd của nhóm.
+ Đây là repository chứa source code FrontEnd và BackEnd của nhóm em trong môn Lập trình nâng cao.
+ Trong Bài tập lớn này em chịu các vấn đề liên quan đến thiết kế Models, Kiến trúc hệ thống, kết nối Realtime Database, hiện thực hóa các API,...
 
-## Cách clone source code về máy
-```
-git clone https://github.com/thinhtruong2109/School_Management_System.git
-cd .\School_Management_System\ 
-```
+
 ### Cách chạy dự án
 Trước hết ta phải chạy ```backend``` của hệ thống(vì backend được kết nối với realtime database nên tốc độ load có thể hơi chậm)
 
